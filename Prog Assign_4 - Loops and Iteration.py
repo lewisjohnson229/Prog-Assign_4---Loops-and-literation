@@ -1,7 +1,7 @@
 # Author: Lewis Johnson
 # Program: Prog Assign_4 - Loops and literation
 # Date: Sept, 26 , 2026
-# Git hub link
+# https://github.com/lewisjohnson229/Prog-Assign_4---Loops-and-literation/blob/main/Prog%20Assign_4%20-%20Loops%20and%20Iteration.py
 
 # Value counter for the bugs collected
 total_bugs = 0
